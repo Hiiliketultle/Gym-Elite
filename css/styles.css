@@ -1,0 +1,118 @@
+#title{
+    background-color:#8400ff;
+    color:#fff;
+    font-size: 1.25rem;
+    font-family: "Open Sans";
+  }
+  
+  #orders{
+    text-align:center;
+    font-family: "Open Sans";
+  }
+  
+  #reviews{
+    text-align:center;
+    font-family: "Open Sans";
+  }
+  
+  #menu{
+    text-align:center;
+    background-color:#8400ff;
+    color:#fff;
+    font-family: "Open Sans";
+  }
+  
+  #footer{
+    background-color:#8400ff;
+    color:#fff;
+    font-family: "Open Sans";
+    text-align:center;
+    font-size:1.25rem;
+  }
+  
+  
+  h1{
+    font-family: "Open Sans";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight:bold;
+  }
+  h3{
+    font-family: "open sans";
+    font-weight: bold;
+    color:#808080;
+  }
+  
+ 
+  
+  .container-fluid{
+    padding: 3% 15%;
+  }
+  
+  .nav-link{
+    color:#fff;
+  }
+  
+  .nav-link:hover{
+    color:#fff;
+  }
+  
+  .navbar-brand{
+    color:#fff;
+    font-size: 1.75rem;
+    font-family: "Open Sans";
+  }
+  
+  .title-image{
+    width: 55%;
+    
+   
+    border-radius:50%;
+  }
+  .nav-item{
+    padding: 0 18px;
+  }
+  
+ 
+  
+  .navbar{
+    padding-bottom:4.5rem;
+  }
+  
+ 
+  .carouselImage{
+    height:150px;
+    width:150px;
+    border-radius:50%;
+  }
+  
+  
+  .pizzaImage{
+    margin: 50px 0;
+    border-radius:50%;
+    height: auto;
+    max-width:100%;
+  }
+  
+  .Header{
+    margin:50px 0;
+  }
+  
+  .brandImages{
+    height:150px;
+    width:150px;
+  }
+  
+ 
+  
+  .iconStyle{
+    color:#8400ff;
+    background-color: #fff;
+  }
+
+  .imgSrc{
+    width: 55%;
+    color:#8400ff;
+   height:55%;
+    border-radius:50%;
+  }
